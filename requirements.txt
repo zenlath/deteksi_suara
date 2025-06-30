@@ -2,6 +2,5 @@ streamlit
 audio-recorder-streamlit
 librosa
 numpy
-tensorflow-cpu
+tensorflow
 soundfile
-gdown
